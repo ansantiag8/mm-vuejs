@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/santiag8/mm-vuejs#readme",
   "license": "ISC",
-  "main": "index.js",
+  "main": "./src/mm-vuejs.js",
   "name": "mm-vuejs",
   "repository": {
     "type": "git",
@@ -39,7 +39,8 @@
   "version": "0.0.1",
   "dependencies": {
     "mm-card": "git+ssh://git@github.com/santiag8/mm-card.git",
-    "remove": "^0.1.5",
+    "mm-layout": "git+ssh://git@github.com/santiag8/mm-layout.git",
+    "mm-text-field": "git+ssh://git@github.com/santiag8/mm-text-field.git",
     "vue": "^2.5.16"
   }
 }
