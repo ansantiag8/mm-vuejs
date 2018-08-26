@@ -43,7 +43,8 @@
   "dependencies": {
     "mm-card": "git+ssh://git@github.com/santiag8/mm-card.git",
     "mm-layout": "git+ssh://git@github.com/santiag8/mm-layout.git",
-    "mm-text-field": "git+ssh://git@github.com/santiag8/mm-text-field.git",
+    "mm-text-field": "git+ssh://git@github.com/ansantiag8/mm-text-field.git",
+    "mm-theme": "git+ssh://git@github.com/ansantiag8/mm-theme.git",
     "vue": "^2.5.16"
   }
 }
